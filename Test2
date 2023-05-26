@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "How are you"
+
+Read name
+
+echo "You said $name"
+
